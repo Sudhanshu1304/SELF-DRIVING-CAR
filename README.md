@@ -15,7 +15,7 @@
 * [About Kivy](#About-Kivy)
 * [About PyTorch](#About-PyTorch)
 
-* [WHY PyTorch NoT TensorFlow ?](#Why-PyTorch-Not-TensorFlow-?)
+* [Why PyTorch Not TensorFlow ?](#Why-PyTorch-Not-TensorFlow-?)
 
 
 #### *About Kivy*

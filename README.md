@@ -17,7 +17,7 @@
 * [Why PyTorch Not TensorFlow ?](#Why-PyTorch-Not-TensorFlow-?)
 
 * [Project Approach](#Project-Approach)
-* [Concepts  Used  In Project](#Concepts-Used-In-Project)
+* [Concepts Used In Project](#Concepts-Used-In-Project)
 * [REINFORCEMENT LEARNING SCHEMATICS](#REINFORCEMENT-LEARNING-SCHEMATICS)
 
 
@@ -104,7 +104,7 @@ approach this  Project .
 
 <br>
 
-#### *Concepts  Used  In Project*
+#### *Concepts Used In Project*
 
 ***
 

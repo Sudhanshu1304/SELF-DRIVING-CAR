@@ -19,6 +19,7 @@
 
 #### *About Kivy*
 ***
+<img src="Images/kivy_img.png " width="50" height="50">
 
 ![](Images/kivy_img.png )
 

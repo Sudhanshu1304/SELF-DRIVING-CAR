@@ -63,7 +63,8 @@ used for applications such as computer vision and natural language processing,
 
 <br>
 
-### Why PyTorch Not TensorFlow ?
+### *Why PyTorch Not TensorFlow ?*
+
 ***
 
 <br>

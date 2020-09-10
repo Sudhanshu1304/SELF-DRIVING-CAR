@@ -12,9 +12,10 @@
 ### *Sections*
 ***
 
-* About Kivy
-* About PyTorch
-* WHY PyTorch AND NOT ~~TensorFlow~~ ?
+* [About Kivy](#About-Kivy)
+* [About PyTorch](#About-PyTorch)
+
+* [WHY PyTorch AND NOT ~~TensorFlow~~ ?](#Why-PyTorch-Not TensorFlow-?)
 
 
 #### *About Kivy*

@@ -19,7 +19,7 @@
 
 #### *About Kivy*
 ***
-<img src="Images/kivy_img.png " width="200" height="150">
+<img src="Images/kivy_img.png " width="250" height="150">
 
 
 <p>
@@ -34,6 +34,7 @@ the terms of the MIT License,
 
 
 [Official Kivy Website Link ](https://kivy.org/#home)
+
 ***
 
 </p>
@@ -43,9 +44,8 @@ the terms of the MIT License,
 ### About PyTorch
 ***
 
-![](Images/PyTorch.jpg)
+<img src="Images/PyTorch.jpg" width="250" height="150">
 
-***
 
 <p>
 <br>

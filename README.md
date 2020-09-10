@@ -14,8 +14,11 @@
 
 * [About Kivy](#About-Kivy)
 * [About PyTorch](#About-PyTorch)
-
 * [Why PyTorch Not TensorFlow ?](#Why-PyTorch-Not-TensorFlow-?)
+
+* [Project Approach](#Project-Approach)
+* [Concepts  Used  In Project](#Concepts-Used-In-Project)
+* [REINFORCEMENT LEARNING SCHEMATICS](#REINFORCEMENT-LEARNING-SCHEMATICS)
 
 
 #### *About Kivy*

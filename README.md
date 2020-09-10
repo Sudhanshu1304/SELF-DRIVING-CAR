@@ -19,11 +19,9 @@
 
 #### *About Kivy*
 ***
-<img src="Images/kivy_img.png " width="200" height="100">
+<img src="Images/kivy_img.png " width="200" height="150">
 
 
-
-***
 <p>
 
 <br>

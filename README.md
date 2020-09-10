@@ -19,9 +19,9 @@
 
 #### *About Kivy*
 ***
-<img src="Images/kivy_img.png " width="50" height="50">
+<img src="Images/kivy_img.png " width="200" height="100">
 
-![](Images/kivy_img.png )
+
 
 ***
 <p>

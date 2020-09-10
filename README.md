@@ -26,11 +26,11 @@
 
 <br>
 
-***Kivy** is a free and open source Python framework for 
+**Kivy** is a free and open source Python framework for 
 developing mobile apps and other multitouch application 
 software with a natural user interface. It is distributed under 
 the terms of the MIT License,
- and can run on Android, iOS, GNU/Linux, macOS, and Windows*
+ and can run on Android, iOS, GNU/Linux, macOS, and Windows
 
 
 [Official Kivy Website Link ](https://kivy.org/#home)
@@ -129,8 +129,7 @@ approach this  Project .
 >had for the States it had been before because It's weights will adjusted it self to the new states it is in.**
 
 >**This Means that the Car wil not learn effectively and every time it comes across the 
->same states as it have been before it will have to Explore that environment again, which makes no sense.
->**
+>same states as it have been before it will have to Explore that environment again, which makes no sense.**
 >
 >**So to deal with this Issue We Train out Neural Net on the Experiential Memory also
 >so that the weights are not lost completely and helps in generalizing Car for Different

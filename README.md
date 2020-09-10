@@ -137,8 +137,16 @@ approach this  Project .
 >so that the weights are not lost completely and helps in generalizing Car for Different
 >Environments**
 
+<br>
 
+***
 
+## REINFORCEMENT LEARNING SCHEMATICS
 
+<br>
+
+<br>
+
+![](Images/reinforcement_learning.png)
 
 

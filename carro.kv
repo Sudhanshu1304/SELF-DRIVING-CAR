@@ -1,0 +1,93 @@
+#:kivy 1.0.9
+
+<Car>:
+    size: 40, 30
+    canvas:
+
+        PushMatrix
+        Color:
+            rgba: 1,1,1,1
+        Rotate:
+            angle: self.angle
+            origin: self.center
+        Rectangle:
+            source:"car_img4.png"
+            pos: self.pos
+            size: self.size
+        Color:
+            rgba: 1,0,1,0.5
+
+
+        PopMatrix
+
+<Sensor3>:
+
+    size:25,10
+    canvas:
+        PushMatrix
+        Color:
+            rgb:(1,1,1,1)  #if self.state=="normal" else (1,0,0,1)
+        Rotate:
+            angle: self.angle
+            origin:self.pos[0]+20,self.pos[1]+10
+        Ellipse:
+            pos:self.pos[0]+20,self.pos[1]+5#self.pos
+            size:self.size
+        PopMatrix
+
+<Sensor2>:
+    size:25,10
+    canvas:
+        PushMatrix
+        Color:
+            rgba:1,1,1,1 #if self.state="normal" else (1,0,0,1)
+        Rotate:
+            angle: self.angle
+            origin: self.pos[0]+20,self.pos[1]+10#self.center
+            #axis:self.pos[0],self.pos[1],1
+        Ellipse
+            pos:self.pos[0]+20,self.pos[1]+10#self.pos#self.pos[0]+20,self.pos[1]+10#self.pos
+            size:self.size
+        PopMatrix
+
+
+<Sensor1>:
+    size:10,25
+    canvas:
+        PushMatrix
+        Color:
+            rgba: 1,1,1,1
+        Rotate:
+            angle: self.angle
+            origin: self.pos[0]+20,self.pos[1]+10#self.center
+        Ellipse:
+            pos:self.pos[0]+20,self.pos[1]+10#self.pos[0]+1,self.pos[1]+5#self.pos
+            size:self.size
+        PopMatrix
+
+<Game>:
+    car:game_car
+    sensor_1:sensor_1
+    sensor_2:sensor_2
+    sensor_3:sensor_3
+    Car:
+        id:game_car
+        center:self.parent.center
+    Sensor1:
+        id:sensor_1
+        center:self.parent.center
+    Sensor2:
+        id:sensor_2
+        center:self.parent.center
+    Sensor3:
+        id:sensor_3
+        center:self.parent.center
+
+
+
+
+
+
+
+
+

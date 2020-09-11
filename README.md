@@ -4,7 +4,7 @@
 
 <br>
 
-**To see the Car In Action visit** [***Click Hear***](https://www.linkedin.com/feed/)
+**To see the Car In Action visit** [***Click Hear***](https://www.linkedin.com/in/sudhanshu-pandey-847448193)
 
 ***
 
